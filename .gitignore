@@ -1,3 +1,5 @@
 myenv
 llama-models
 example.py
+.env
+node_modules
